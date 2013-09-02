@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+
+    <title>
+
+       PAGINA WEB DE PRACTICA 1
+
+    </title>
+
+
+  <head>
+
+     <p> VIDEO </p>
+     
+  </head>
+
+	<body>
+	
+		
+	<video src= "C:\Users\Juan Diego\Videos\(r)churundango.wmv" Controls>
+
+	</video>
+
+		
+	<ul>
+		<li> Recident Evil Afterline  </li>
+		<li>  Duracion 01:36:52 </li>
+		<li> Formato .avi </li>
+	</ul>
+
+	<br>
+
+		
+		<a href= "C:\Users\Juan Diego\Desktop\PRACTICA 1\INDEX.HTML"> REGRESAR A LA PAGINA INICIAL </a>
+		<BR>
+		<a href= "C:\Users\Juan Diego\Desktop\PRACTICA 1\VIDEO.HTML"> REGRESAR A LA PAGINA DE VIDEO </a>
+		
+		<BR>
+
+		<a href= "C:\Users\Juan Diego\Desktop\PRACTICA 1\AUDIO.HTML"> REGRESAR A LA PAGINA AUDIO </a>
+		</body>
+
+
+
+</html>

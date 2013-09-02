@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html>
+
+    <title>
+
+       PAGINA WEB DE PRACTICA 1
+
+    </title>
+
+
+  <head>
+
+     <p> DIRECTORIO EN WEB </p>
+     
+  </head>
+
+	<body>
+	
+		<table border=1>
+		
+
+			<tr>
+				<th>  NOMBRE  </th>
+				<th>    DOMICILIO  </th>
+				<th>    TELEFONO  </th>
+			</tr>
+			<tr>
+				<td>  JUAN DIEGO  </td>
+				<td>  DELICIAS #44  </td>
+				<td>  3310169558  </td>
+			</tr>
+				<tr>
+				<td>  CARLOS   </td>
+				<td>  BANDERA 1500  </td>
+				<td>  33089122  </td>
+			</tr>
+				<tr>
+				<td>  PEDRO   </td>
+				<td>  SANTA ROSA #54  </td>
+				<td>  339729927  </td>
+			</tr>
+				<tr>
+				<td>  JOSE DE JESUS  </td>
+				<td>  MARCOS LARA  </td>
+				<td>  33878723  </td>
+			</tr>
+				<tr>
+				<td>  MARIA DE LA LUZ  </td>
+				<td>  TLAQUEPAQUE  </td>
+				<td>  338Y7267  </td>
+			</tr>
+		
+		</table>	
+
+
+
+		<BR>
+
+	
+		<a href= "C:\Users\Juan Diego\Desktop\PRACTICA 1\INDEX.HTML"> REGRESAR A LA PAGINA INICIAL </a>
+		<BR>
+		<a href= "C:\Users\Juan Diego\Desktop\PRACTICA 1\VIDEO.HTML"> REGRESAR A LA PAGINA DE VIDEO </a>
+		
+		<BR>
+
+		<a href= "C:\Users\Juan Diego\Desktop\PRACTICA 1\AUDIO.HTML"> REGRESAR A LA PAGINA AUDIO </a>
+	
+	</body>
+
+
+
+</html>
